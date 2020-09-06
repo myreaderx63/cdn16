@@ -1,0 +1,1094 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="sp" lang="sp">
+  
+<head> 
+
+<title>Empregos em Huesca</title>
+
+<meta name="revisit" content="1 days" />
+<meta name="keywords" content="Empregos emHuesca" />
+<meta name="description" content="Empregos em Huesca" />
+ <meta name="Subject" content="Empleos" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.5">
+
+
+
+
+<link rel="stylesheet" href="//www.goempleo.es/css.php" type="text/css" />
+<link rel="stylesheet" media="(max-width:1100px) " href="//www.goempleo.es/css_medio.php">
+<link rel="stylesheet" media="(max-width:900px) " href="//www.goempleo.es/css_medio_p.php">
+<link rel="stylesheet" media="(max-width:700px) " href="//www.goempleo.es/css_mobile.php">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+<script language="javascript" type="text/javascript">
+<!--
+function make_check(a_formelement, a_value, a_form){
+    var l_formelement = a_formelement;
+    if (l_formelement) {
+        if (l_formelement.length) {
+            for (i=0;i<l_formelement.length;i++) {
+                l_formelement[i].checked=a_value;
+            }
+        }
+        else{
+            l_formelement.checked = a_value;
+        }
+    }
+    if (a_form.sel_all) {
+        a_form.sel_all.checked=a_value;
+    }
+}
+//-->
+</script>
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="configa_cookies_11.js"></script>
+<script type="text/javascript" src="cookieconsent.latest.min.js"></script>
+
+
+<!-- End Cookie Consent plugin -->
+<script>
+$(document).ready(function(){
+	
+	
+
+	   $( "#adel_icon_menu" ).click(function() 
+	   {
+	   		if ($("#adel_menu_mobile").css("display")=="none")
+			{
+				 $( "#adel_menu_mobile" ).slideDown( "fast", function() {
+		// Animation complete.
+						
+					});	
+								
+					
+			}else
+			{	
+					
+				 $( "#adel_menu_mobile" ).slideUp( "fast", function() {
+		// Animation complete.
+						
+					});	
+					
+			}		
+	  });
+	
+		//alert('aaa');
+	  });
+
+
+</script>
+
+</head>
+
+<body  dir="ltr">
+
+<!-- header //-->
+<div id="full-width"> <!-- fecha no footer -->
+<table align="center" cellpadding="0" cellspacing="0" style="width:100%; max-width:1080px" c>
+	<tr>
+		<td style="width:7px; background: url(//www.goempleo.es/other/bordo_esq.gif) repeat-y">
+		</td>
+		<td>
+
+
+	<div id="full-menu">
+		
+		
+		
+	<div class="center-align_1_1">
+	
+		 	 
+			<div style=" float:left; vertical-align:bottom; height:90px ; ">
+				<div class="adel_pesquisa_n">
+				<a href="//www.goempleo.es/index.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Ofertas empleos en España  | goempleo.es "><img src="//www.goempleo.es/other/logo.gif" border="0" alt="" /></a>
+				</div>
+				<div class="adel_pesquisa_m">
+				<a href="//www.goempleo.es/index.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Ofertas empleos en España  | goempleo.es "><img src="//www.goempleo.es/other/logo.gif" border="0" alt="" width="220px"/></a>
+				</div>
+					 
+			</div>
+			
+			<div style=" float:right; vertical-align:bottom; height:90px; margin-top:0px ">
+				<div class="adel_medio">
+					<!-- google -->
+					<script type="text/javascript"><!--
+		google_ad_client = "pub-0994902845919865";
+		google_ad_width = 728;  
+		google_ad_height = 90;
+		google_ad_format = "728x90_as";
+		google_ad_type = "text"; 
+		google_ad_channel ="";
+ 
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+					
+				</div>	
+				<div class="adel_pesquisa_m">
+					<div id="adel_icon_menu">
+		 				<span> MENU</span>
+					</div>
+				</div>	
+			</div>	
+			
+	
+</div>
+
+ <div class="phpjob_divclear"></div>
+ 			<!-- =================================================== MENU adel_1 ========================= -->
+	<!-- =================================================== MENU adel_1 ========================= -->
+		<div class="adel_pesquisa_n">	
+			<div class="center-align_1">	<!-- #4 -->
+				<div id="phpjob_header">	<!-- #5 -->			
+					<div class="adel_menu"> <!-- #6 -->
+						<div style=" float:left; width:10px">&nbsp;&nbsp;&nbsp;</div>
+						<div class="menu_z"></div>
+						<div class="menu_y_h">
+						<a href="//www.goempleo.es/index.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Inicio"><img src="//www.goempleo.es/other/home_b.png"</a>
+						</div>
+						<div class="menu_z"></div>
+						<div class="menu_y1">
+						<a href="//www.goempleo.es/jobseekers_home.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Candidatos">Candidatos</a>
+						</div>
+						<div class="menu_z"></div>
+						<div class="menu_y1">	
+						<a href="//www.goempleo.es/employers_home.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Empresas">Empresas</a>
+						</div>
+						<div class="menu_z"></div>
+						
+						<div style="float:right; height:50px; vertical-align:middle; margin:10px 10px auto">
+							 <div style="float:left; margin:5px auto 0px 10px"><span><strong>Bienvenido!</strong>! <a class="register" href="//www.goempleo.es/register.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Register">"Registro"</a> "o" <a class="register" href="//www.goempleo.es/login.php?login=jobseeker&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Login">"Login"</a></span>
+						 </div>
+						<div class="nav_language"> 
+							September 06 2020							
+														
+						</div>		 	
+					</div> 
+				</div>
+	
+			</div> <!-- phpjob_header -->
+		</div>	
+			<!-- =================================================== FIM MENU adel_1 ========================= -->
+</div>
+<!-- fim de ecran Normal ---------------- -->
+<!-- ecran Mobile ---------------- -->
+<div class="adel_pesquisa_m">
+			<div class="center-align_1">	<!-- #4 -->
+				<div id="phpjob_header">	<!-- #5 -->			
+					<div class="adel_menu"> <!-- #6 -->
+						<div style=" float:left; width:10px">&nbsp;&nbsp;&nbsp;</div>
+							<div class="menu_z"></div>
+						<div class="menu_y_h">
+						<a href="//www.goempleo.es/index.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Inicio"><img src="//www.goempleo.es/other/home_b.png"</a>
+						</div>
+						<div class="menu_z"></div>
+						<div class="menu_y1">
+						<a href="//www.goempleo.es/jobseekers_home.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Candidatos">Candidatos</a>
+						</div>
+						<div class="menu_z"></div>
+						<div class="menu_y1">	
+						<a href="//www.goempleo.es/employers_home.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Empresas">Empresas</a>
+						</div>
+						
+					</div> 
+				</div>
+	
+			</div> <!-- phpjob_header -->
+		</div>	
+
+<div class="phpjob_divclear"></div>
+	
+	
+	<div class="adel_pesquisa_m">
+		<ul id="adel_menu_mobile">
+		
+			<li>
+				
+									<div class="language_nav_form11"> 
+									
+      						</div>	
+					
+					
+			</li>
+			
+			<li>
+						
+						<a href="//www.goempleo.es/jobseekers_home.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Candidatos">Candidatos</a>
+			</li>			
+						<!-- ========================== CONTEXTO ======================== -->
+						
+										
+							
+						 <ul id="adel_sub_menu_mobile">
+						 
+						 <li><a href="//www.goempleo.es/index.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Inicio">Inicio</a></li>
+						 
+						 <li><a href="//www.goempleo.es/personal.php?action=new&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Registro">Registro</a></li>
+						 
+						 <li><a href="//www.goempleo.es/login.php?login=jobseeker&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Entrar">Entrar</a></li>
+						 
+						 <li><a href="//www.goempleo.es/jobmail.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Jobmail">Jobmail</a></li>
+						 
+						 <li><a href="//www.goempleo.es/jobseeker.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Enviar Currículo">Enviar Currículo</a></li>
+						 
+						 <li><a href="//www.goempleo.es/search_jobs.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Buscar Empleos">Buscar Empleos</a></li>
+						 
+						 <li><a href="//www.goempleo.es/support.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Asistencia" class="lastinlist">Asistencia</a></li>
+						
+												
+											
+				   </ul>
+				   
+		   
+		
+						
+						
+						<!-- ===========================FIM CONTEXTO ==================== -->
+						
+						
+			<li>			
+						
+						<a href="//www.goempleo.es/employers_home.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Empresas">Empresas</a>
+						
+			</li>
+			<ul id="adel_sub_menu_mobile">
+       
+        <li><a href="//www.goempleo.es/employers_home.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Inicio">Inicio</a></li>
+			    <li><a href="//www.goempleo.es/company.php?action=new&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Registro">Registro</a></li>
+         
+         <li><a href="//www.goempleo.es/login.php?login=employer&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Entrar">Entrar</a></li>
+		
+        <li><a href="//www.goempleo.es/company.php?action=comp_form&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Modificar Perfil">Modificar Perfil</a></li>
+		 
+      
+        <li><a href="//www.goempleo.es/employer.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Mis Empleos">Mis Empleos</a></li>
+        
+        <li><a href="//www.goempleo.es/employer.php?action=job_form&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Añadir Empleo">Añadir Empleo</a></li>
+        
+        <li><a href="//www.goempleo.es/search_resumes.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Buscar Curriculums">Buscar Curriculums</a></li>
+        
+        <li><a href="//www.goempleo.es/resume_bookmark.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Mis Favoritos">Mis Favoritos</a></li>
+       
+		<li><a href="//www.goempleo.es/delaccount.php?employer=true&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Eliminar su Cuenta">Eliminar su Cuenta</a></li>
+       
+		<li><a href="//www.goempleo.es/cross_network.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="TEXT_ENAV_CROSSNETWORK" class="lastinlist">TEXT_ENAV_CROSSNETWORK</a></li>
+        		
+				   </ul	
+			
+			
+		
+			></ul>			
+	
+	
+	</div>			
+				
+		<!-- =================================================== FIM MENU adel_1 ========================= -->
+
+<div id="b-g-center">
+<div class="center-align_cont"> <!-- fecha no footer -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td style=" width:0px; background:url(//www.goempleo.es/other/topo_01_esq.gif) repeat-y"></td>
+					<td>	
+
+
+<table border="0" id="maintable" width="100%" cellspacing="0" cellpadding="0" align="center">
+
+	
+ <tr>
+
+
+<!-- end left_navigation // -->
+
+<!-- body_navigation // -->
+
+<td valign="top" id="phpjob_mainsection" width="100%" height="100%">
+
+  	
+<!--Main Section Start-->
+<div class="main_header_geral">
+	<div class="main_header_geral_borda">
+		
+		<div class="main_header">
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" background: #4F4B3B url(//www.goempleo.es/other/caixa11_fundo.gif) repeat-x bottom left">
+						<tr>
+							<td style="height:40px; width:8px; background:#ededf2 url(//www.goempleo.es/other/adel_cimo_caixa.gif) repeat-x"></td>
+							<td style="height:40px; width:auto; background: #ededf2  url(//www.goempleo.es/other/adel_cimo_caixa.gif) repeat-x">
+								<h2>&nbsp;&nbsp;&nbsp;&nbsp;Empregos em Huesca (1 a 10 de 35)</h2>	
+							</td>
+							<td style="height:40px; width:8px; background:#ededf2 url(//www.goempleo.es/other/adel_cimo_caixa.gif) repeat-x"></td>
+						</tr>
+						<tr>
+							<td style="height:auto; width:8px; background: #f6f6f6 url(//www.goempleo.es/other/caixa_lado_esq.gif) repeat-y; border-left:1px solid #4F4B3B; border-top:1px solid #737D27; "></td>
+							<td style=" background:#f6f6f6; border-top:1px solid #737D27; ">
+							<br />
+								<p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsivo -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0994902845919865"
+     data-ad-slot="1142929514"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</p>
+
+							
+		
+		<div class="breadcrumbs"><ul><li><a href="//www.goempleo.es/" title="Inicio">Inicio</a></li><li>></li><li><a href="//www.goempleo.es/location.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajos por ubicación">Trabajos por ubicación</a></li><li>></li><li>Empregos em Huesca</li></ul></div>	
+	
+<div class="bx_pagination">  <div class="pgleft"></div>  <div class="pgright">    <ul><li class="nolist">Ordenar por:&nbsp;Últimos&nbsp;|&nbsp;<a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=0&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6&amp;vt=1">Detalles</a>&nbsp;&nbsp;&nbsp;Página:</li><li><span><strong>1</strong></span></li><li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=10&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">2</a></li><li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=20&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">3</a></li><li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=30&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">4</a></li><li class="nolist"><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=10&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">Siguiente &#187;</a></li>    </ul>    </div> </div> <div class="phpjob_divclear"></div><form method="post" action="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=0&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" name="frm_bkm"><input type="hidden" name="todo" value="bulk" /><div id="idjobsearchresults">
+<ul class="hlist"> 
+    <li>Ordenar por:&nbsp;:</li>
+    <li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22?f=0&amp;o=1&amp;o_type=0&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">Fecha de Envío&nbsp;</a></li>
+    <li class="sep"></li>
+    <li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22?f=0&amp;o=2&amp;o_type=0&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">Título&nbsp;</a></li>
+    <li class="sep"></li>
+    <li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22?f=0&amp;o=3&amp;o_type=0&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">Empresa&nbsp;</a></li>
+    <li class="sep"></li>
+    <li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22?f=0&amp;o=4&amp;o_type=0&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">Localización&nbsp;</a></li>
+</ul>     
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>1.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3732117" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor21">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3732117&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Gestor Comercial y Marketing">Trabajo :  Gestor Comercial y Marketing</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Barbastro - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 9-10 €/hora                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3732117&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Gestor Comercial y Marketing - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Sep 02 - vistas: 11</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>2.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3732110" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor11">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3732110&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Auxiliar Administrativo">Trabajo :  Auxiliar Administrativo</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Barbastro - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 7-8 €/hora                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3732110&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Auxiliar Administrativo - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Sep 02 - vistas: 12</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>3.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3731713" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor21">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3731713&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Encargado almacén">Trabajo :  Encargado almacén</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Huesca - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 8-9 €/hora                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3731713&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Encargado almacén - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Sep 01 - vistas: 12</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>4.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3730390" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor11">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3730390&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Montador muebles">Trabajo :  Montador muebles</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Fraga - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 7-9 €/hora                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3730390&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Montador muebles - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Aug 27 - vistas: 21</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+<div class="adel_pesquisa_m">	
+								<p>
+
+ <script type="text/javascript"><!--
+google_ad_client = "pub-0994902845919865";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_bg = "F6F6F6";
+
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+</div>
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>5.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3730032" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor21">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3730032&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Carretillero">Trabajo :  Carretillero</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Fraga - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 8-11 €/hora                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3730032&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Carretillero - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Aug 26 - vistas: 24</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>6.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3730027" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor11">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3730027&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Técnico agrícola departamento comercial">Trabajo :  Técnico agrícola departamento comercial</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Fraga - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 9-12 €/hora                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3730027&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Técnico agrícola departamento comercial - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Aug 26 - vistas: 24</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>7.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3730026" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor21">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3730026&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Operario fábrica ( CFGS)">Trabajo :  Operario fábrica ( CFGS)</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Fraga - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 9-12 €/hora                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3730026&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Operario fábrica ( CFGS) - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Aug 26 - vistas: 24</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>8.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3729301" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor11">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3729301&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Carretillero">Trabajo :  Carretillero</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Binéfar - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 8 €/hora                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3729301&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Carretillero - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Aug 24 - vistas: 29</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>9.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3728545" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor21">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3728545&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Electromecánico">Trabajo :  Electromecánico</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Fraga - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 8-12 €/hora                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3728545&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Electromecánico - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Aug 20 - vistas: 38</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" border:1px outset #000000; background:#ffffff ">
+						
+						<tr>
+							
+							<td>
+				 
+	<div class="rownumber"><strong>10.</strong> 
+	<span class="bkm"><input type="checkbox" name="job_id[]" value="3728320" class="radio" />		</span>
+	</div>
+	<div class="results phpjob_listbgcolor11">
+		<h2><a href="//www.goempleo.es/view.php?job_id=3728320&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Programdor .Net">Trabajo :  Programdor .Net</a></h2>
+		
+		
+		
+		<p class="desc"><a href="//www.goempleo.es/view.php?company_id=18088&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Randstad" class="hilink">Randstad</a> - Sabiñánigo - Huesca<br />
+		Descripción: <br /><br /><b>salario</b><br />          &nbsp;&nbsp;&nbsp;<b>.</b> 22.000-24.000 €/año                       <br /><b>tipo de contrato</b><br ...&nbsp;<a href="//www.goempleo.es/view.php?job_id=3728320&amp;type=search&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Trabajo :  Programdor .Net - More Details" class="hilink">Más detalles &#187;</a></p>
+		
+				  <p class="posted">enviado: Aug 19 - vistas: 38</p>
+	</div>
+						</td>	
+						
+						</tr>
+						
+					</table>
+	<br />
+</div>
+
+<div class="bx_pagination">  <div class="pgleft">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="make_check(document.frm_bkm['job_id[]'], true, document.frm_bkm); return false;">Seleccionar todo</a>&nbsp;/&nbsp;<a href="#" onclick="make_check(document.frm_bkm['job_id[]'], false, document.frm_bkm); return false;">Remover seleccion</a>&nbsp;&nbsp;&nbsp;&nbsp;<select name="bulk_todo"><option value="">&nbsp;con los seleccionados&nbsp;</option><option value="bookmark">Añadir trabajo a FAVORITOS</option><option value="unbookmark">Añadir trabajo a FAVORITOS</option><option value="apply">Candidatarse a trabajo(s)</option></select>&nbsp;<input type="submit" class="isubmit" name="go_bulk" value="Avanzar" /></div>  <div class="pgright">    <ul><li class="nolist">Página:</li><li><span><strong>1</strong></span></li><li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=10&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">2</a></li><li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=20&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">3</a></li><li><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=30&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">4</a></li><li class="nolist"><a href="//www.goempleo.es/location.php?location=Huesca&amp;lid=22&amp;f=10&amp;location=Huesca&amp;lid=22&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6">Siguiente &#187;</a></li>    </ul>    </div> </div> <div class="phpjob_divclear"></div></form>				
+	
+	<div style="height:auto; width:100%; border:2px ">
+	
+		<div class="center-align_1">
+				
+	<!-- yyyyyy pesquisa  -->	
+<!-- teste x -->
+	<!-- top navigation -->
+	<div id="full-menu-linha_1">
+		
+		
+			<div id="center-align-topo">
+				
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" background:#ffffff">
+						<tr>
+							<td style="height:0px; width:0px; background:url(//www.goempleo.es/other/caixa_cima_canto_esq.gif) no-repeat"></td>
+							<td style="height:0px; width:0; background:url(//www.goempleo.es/other/caixa_cima_meio.gif) repeat-x"></td>
+							<td style="height:0px; width:0px; background:url(//www.goempleo.es/other/caixa_cima_canto_dir.gif) repeat-x"></td>
+						</tr>
+						<tr>
+							<td style="height:0; width:0px; background:url(//www.goempleo.es/other/caixa_lado_esq.gif) repeat-y"></td>
+							<td>
+	<!-- top navigation -->
+	 
+ 
+ 
+ <!-- teste x -->	 
+		
+		
+ <table border="0" width="100%" cellspacing="0" cellpadding="0">
+ 	<tr>
+		
+              <td valign="top" width="1038" id="phpjob_topsection">
+
+              <form action="//www.goempleo.es/jobfind.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" method="get" name="search_job" style="margin: 0px; padding: 0px;">
+<input type="hidden" name="action" value="search" />
+<input type="hidden" name="auth_sess" value="7145d0f6dafc831a5ceabb19c4940e1d" /><input type="hidden" name="ref" value="ca8fc7b412aee2041b3ce91b6" /><div id="phpjob_quick_jsearch">    
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" background:url(//www.goempleo.es/other/caixa_fundo.gif) repeat-x bottom left">
+		<tr>
+			<td style="height:7px; width:7px; background:url(//www.goempleo.es/other/caixa1_cima_canto_esq.gif) no-repeat top left"></td>
+			<td style="height:7px; width:auto; background: #FFBA51 url(//www.goempleo.es/other/caixa_cima_meio.gif) repeat-x"></td>
+			<td style="height:7px; width:7px; background:url(//www.goempleo.es/other/caixa1_cima_canto_dir.gif) repeat-x top left"></td>
+		</tr>
+		<tr>
+			<td style="height:auto; width:7px; background: #FFBA51 url(//www.goempleo.es/other/caixa_lado_esq.gif) repeat-y"></td>
+			<td style=" background:#FFBA51">
+			
+	<!-- caixa #2  cima -->				
+	
+			
+		 <div class="rowleft">
+		 	<div class="adel_pesq_01">
+				 <table width="100%" >
+					
+					<tr >
+						<td class="texto_menu1">
+					 <select name="jids[]" size="1">
+					<option selected="selected" value="00">Todas las Categorías</option>
+					<option value="1">Administración de Empresas</option><option value="2">Administración Pública</option><option value="3">Calidad, Producción e I+D</option><option value="4">Compras e Logística</option><option value="5">Diseño y Artes Gráficas</option><option value="6">Educación y Formación</option><option value="7">Finanzas y Banca</option><option value="8">Ingenieros y Técnicos</option><option value="9">Inmobiliaria y construcción</option><option value="10">Legal</option><option value="11">Marketing y Comunicación</option><option value="20">Otras</option><option value="12">Profesiones, artes y oficios</option><option value="19">Promociones e Imagen</option><option value="13">Recursos Humanos</option><option value="14">Sanidad y Salud</option><option value="15">Tecnologia y Telecomunicaciones</option><option value="16">Transporte y Logística</option><option value="17">Turismo y Restauración</option><option value="18">Venta y Atención al Cliente</option><option value="21">Ventas / Comercial</option><option value="25">Transporte / Distribución</option><option value="26">Atención al cliente</option><option value="27">Informática/Telecomunicaciones</option><option value="28">Producción</option><option value="29">Dirección / Gestión / Organización</option><option value="30">Artes/Oficios</option><option value="31">Turismo/ Restauración</option><option value="33">Marketing / Comunicación</option><option value="34">Mantenimiento/ Limpieza</option><option value="35">Jurídico / Legal</option><option value="36">Logística / Almacén</option><option value="37">Sanidad</option><option value="38">Compras</option><option value="39">Finanzas/ Banca/ Contabilidad</option><option value="40">Calidad</option><option value="41">I+D</option><option value="42">Diseño/ Artes gráficas</option><option value="43">Educación/ Formación</option><option value="44">Servicios Generales</option><option value="48">Administrativos/RRHH</option><option value="49">Informática/Internet</option><option value="50">Otros</option><option value="51">Reparaciones del hogar</option><option value="52">Medicina/Salud</option><option value="53">Educación/Formación</option><option value="54">Canguros</option><option value="55">Servicios de limpieza</option><option value="56">Restauración</option><option value="57">Ventas/Marketing</option><option value="58">Industria/Fábrica</option><option value="59">Contabilidad/Finanzas</option><option value="60">Construcción</option><option value="61">Sanitario</option><option value="62">Comercial y marketing</option><option value="63">Educación</option><option value="64">Administración y finanzas</option><option value="65">Estética</option><option value="66">Tecnología</option><option value="67">Administrativo</option><option value="68">Electricidad</option><option value="69">Comunicación y periodismo</option><option value="70">Mecánica</option><option value="71">Madera</option><option value="72">Servicios sociales</option><option value="73">Industria y manufactura</option><option value="74">Construcción-inmobiliario</option><option value="75">Banca y seguros</option><option value="76">Alimentario</option><option value="77">Servicio doméstico</option><option value="78">Logística/Distribución</option><option value="79">Peluquería/Estética</option><option value="80">Ingenieros</option><option value="81">Servicios a empresas</option><option value="82">Jurídico</option><option value="83">Seguridad/medio ambiente</option><option value="84">Diseño/Creatividad</option><option value="85">Imagen y sonido</option><option value="86">Energía y agua</option><option value="87">Seguridad</option><option value="88">Deportes</option><option value="89">Textil y confección</option><option value="90">Compras y logística</option><option value="91">Actividades físicas</option><option value="92">Traducción</option><option value="93">Química y plásticos</option><option value="94">Clases particulares</option><option value="95">Mascotas y animales</option><option value="96">Marketing y publicidad</option><option value="97">Siderurgia y metalurgia</option><option value="98">Logística y transporte</option><option value="99">Telecomunicaciones</option><option value="100">Comercio</option><option value="101">Alimentación y bebidas</option><option value="102">Madera, vidrio, textil y calzado</option><option value="103">Agricultura, ganadería, pesca y minería</option><option value="104">Automoción</option><option value="105">Química, farmacia, petróleo y derivados</option><option value="106">Asesoría</option><option value="107">Financieras</option><option value="108">Informática</option><option value="109">Maquinaria  y equipo mecánico</option><option value="110">Aeropuertos y líneas aéreas</option><option value="111">Belleza, salud y deporte</option><option value="112">Electrónica</option><option value="113">Ingeniería</option><option value="114">ONG's</option><option value="115">Hostelería y turismo</option><option value="116">Centros sanitarios y asistenciales</option><option value="117">Energía eléctrica, agua y gas</option><option value="118">Arte y cultura</option><option value="119">Medios Comunicación y editoriales</option><option value="120">Administración pública y gobierno</option><option value="121">Tabaco</option><option value="122">Retail y gran consumo</option><option value="123">Seguros</option><option value="124">Ocio y entretenimiento</option><option value="125">Voluntariado</option><option value="126">Agrícola-Ganadero</option><option value="127">Financiero</option><option value="128">Administración y servicios empresariales</option><option value="129">Industrial</option><option value="130">Marketing, publicidad y atención al cliente</option><option value="131">Metalurgia y Siderometalurgia</option><option value="132">Administración y servicios empresariales</option><option value="133">Tecnología y Sistemas de Información</option><option value="134">Informática/Internet</option><option value="135">Logística y transporte</option><option value="136">Farma y Salud</option><option value="137">Tecnologí­a</option><option value="138">Compras y logística</option><option value="139">Aereoportuario</option><option value="140">Automoción</option><option value="141">Turismo y Restauración</option><option value="142">Agroalimentario</option><option value="143">Atención al cliente</option><option value="144">Tecnologí­a y Sistemas de Información</option><option value="145">Estética</option><option value="146">Audiovisual y Media</option><option value="147">Mecánica</option><option value="148">Peluquerí­a/Estética</option><option value="149">Construcción</option><option value="150">Industria/Fábrica</option><option value="151">Educación/Formación</option><option value="152">Restauración</option><option value="153">Marketing, publicidad y atención al cliente</option><option value="154">Administración y finanzas</option><option value="155">Ingeniería</option><option value="156">Jurídico</option><option value="157">Educación y formación</option><option value="158">Logística/Distribución</option><option value="159">Química y plásticos</option><option value="160">Educación</option><option value="161">Construcción-inmobiliario</option><option value="162">Diseño/Creatividad</option>					</select>
+				</td>
+					</tr>
+				</table>
+			</div>
+			<div class="adel_pesq_01">
+				 <table width="100%" >
+				
+					<tr >
+						<td class="texto_menu1">
+					<select name="lids[]" size="1">
+						<option selected="selected" value="000">Todas las ubicaciones</option>
+						<option value="1">A Coruña</option><option value="51">Álava</option><option value="2">Albacete</option><option value="3">Alicante</option><option value="4">Almería</option><option value="5">Asturias</option><option value="52">Ávila</option><option value="6">Badajoz</option><option value="7">Barcelona</option><option value="8">Burgos</option><option value="9">Cáceres</option><option value="10">Cádiz</option><option value="11">Cantabria</option><option value="12">Castellón</option><option value="13">Ceuta</option><option value="14">Ciudad Real</option><option value="15">Córdoba</option><option value="16">Cuenca</option><option value="17">Girona</option><option value="18">Granada</option><option value="19">Guadalajara</option><option value="20">Guipúzcoa</option><option value="21">Huelva</option><option value="22">Huesca</option><option value="23">Ilhas Baleares</option><option value="24">Jaén</option><option value="25">La Rioja</option><option value="26">Las Palmas</option><option value="27">León</option><option value="28">Lleida</option><option value="29">Lugo</option><option value="30">Madrid</option><option value="31">Málaga</option><option value="32">Melila</option><option value="33">Murcia</option><option value="34">Navarra</option><option value="35">Ourense</option><option value="36">Palencia</option><option value="37">Pontevedra</option><option value="38">Salamanca</option><option value="39">Santa Cruz de Tenerife</option><option value="40">Segovia</option><option value="41">Sevilla</option><option value="42">Soria</option><option value="43">Tarragona</option><option value="44">Teruel</option><option value="45">Toledo</option><option value="46">Valencia</option><option value="47">Valladolid</option><option value="48">Vizcaya</option><option value="49">Zamora</option><option value="50">Zaragoza</option><option value="53">otro</option>						</select>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div class="adel_pesq_01" >
+				 <table width="100%" >
+					
+					<tr >
+						<td class="texto_menu1">
+					<input type="text" class="itext" name="kwd" value="" size="20" />
+					</td>
+					</tr>
+				</table>
+			</div>
+			<div class="adel_pesq_02" >
+				 <table width="100%" >
+					
+					<tr >
+						<td class="texto_menu2">
+					<input type="submit" class="isubmit" name="cmdSearch" value="  Buscar" /><br />
+					</td>
+					</tr>
+				</table>
+				
+			</div>
+			
+				
+			
+		</div>
+		 <div class="pesquisax">
+		 		
+		 
+			 <div  class="aaa_div">
+				 <a class="texto_search" href="//www.goempleo.es/location/" title="Browse by Location">Trabajos por ubicación</a>	
+			 </div>
+			 <div  class="aaa_div">
+			 <a class="texto_search" href="//www.goempleo.es/category/" title="Trabajos por categoría">Trabajos por categoría</a>
+			 </div>
+			 <div  class="aaa_div">
+			 <a class="texto_search" href="//www.goempleo.es/search_jobs.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Búsqueda Avanzada">Búsqueda Avanzada</a>
+			 
+			</div>
+		 
+			
+		
+		</div>
+		 
+	 </div>	
+
+<!-- caixa #2 fundo -->	
+	</td>	
+			 <td style="height:auto; width:7px; background: #FFBA51 url(//www.goempleo.es/other/caixa_lado_dir.gif) repeat-y"></td>
+		</tr>
+		<tr>
+			<td style="height:7px; width:7px; background:url(//www.goempleo.es/other/caixa1_baixo_canto_esq.gif) no-repeat"></td>
+			<td style="height:7px; width:auto; background: #FFBA51 url(//www.goempleo.es/other/caixa1_baixo_meio.gif) repeat-x"></td>
+			<td style="height:7px; width:7px; background:url(//www.goempleo.es/other/caixa1_baixo_canto_dir.gif) repeat-x"></td>
+		</tr>
+	</table>		
+	<!-- caixa #2 fundo -->	
+
+ </div>
+ 
+ <div class="phpjob_divclear"></div>
+
+</form></td></tr><tr> </table>  
+
+<!-- header_eof //-->
+</td>
+				
+				
+		
+		<!-- teste x -->
+	<!-- top navigation -->
+							</td>
+						   <td style="height:auto; width:0px; background:url(//www.goempleo.es/other/caixa_lado_dir.gif) repeat-y"></td>
+						</tr>
+						<tr>
+							<td style="height:0px; width:0px; background:url(//www.goempleo.es/other/caixa_baixo_canto_esq.gif) no-repeat"></td>
+							<td style="height:0px; width:0; background:url(//www.goempleo.es/other/caixa_baixo_meio.gif) repeat-x"></td>
+							<td style="height:0px; width:0px; background:url(//www.goempleo.es/other/caixa_baixo_canto_dir.gif) repeat-x"></td>
+						</tr>
+					</table>
+		
+				</div> <!-- center-align_topo -->
+				
+		</div> <!-- full-menu-linha_1 -->
+	<!-- top navigation -->
+	 <!-- teste x -->
+<!-- fim yyyyyy pesquisa-->	
+	</div>	
+	
+	</div>
+
+<!-- body //-->
+</div> <!-- full-menu -->
+
+	
+
+		
+		
+		 </td>	
+							 <td style="height:auto; width:8px; background:#f6f6f6 url(//www.goempleo.es/other/caixa_lado_dir.gif) repeat-y; border-right:1px solid #d5d5d9; border-top:1px solid #737D27"></td>
+						</tr>
+						<tr>
+							<td style="height:9px; width:8px; background:#4795A7 url(//www.goempleo.es/other/caixaxx_baixo_canto_esq.gif) no-repeat; border-top:1px solid #CCCCCC;"></td>
+							<td style="height:9px; width:auto; background:#4795A7 url(//www.goempleo.es/other/caixaxx_baixo_meio.gif) repeat-x; border-top:1px solid #CCCCCC;"></td>
+							<td style="height:9px; width:8px; background:#4795A7 url(//www.goempleo.es/other/caixaxx_baixo_canto_dir.gif) repeat-x; border-top:1px solid #CCCCCC;"></td>
+						</tr>
+					</table>
+		</div>
+	<!--Main Section End--> 
+	</div>
+	
+	<!-- =====================================  COLUNA DA ESQUERDA ============================================== -->
+	
+	<div class="adel_main_footer_geral"> 
+	<!-- xxxx  menu de contexto -->	
+		<div id="adel_menu_contexto"> 	
+		<div class="full-menu-linha_2">
+
+					
+					<div class="center-align_2x">
+					
+					<!-- caixa #2 cima -->	
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" background:url(//www.goempleo.es/other/caixa_fundo.gif) repeat-x bottom left">
+						<tr>
+							<td style="height:4px; width:3px; background:url(//www.goempleo.es/other/caixa2_cima_canto_esq.gif) no-repeat"></td>
+							<td style="height:4px; width:auto; background:url(//www.goempleo.es/other/caixa2_cima_meio.gif) repeat-x"></td>
+							<td style="height:4px; width:4px; background:url(//www.goempleo.es/other/caixa2_cima_canto_dir.gif) repeat-x"></td>
+						</tr>
+						<tr>
+							<td style="height:auto; width:3px; background:url(//www.goempleo.es/other/caixa2_lado_esq.gif) repeat-y"></td>
+							<td">
+	<!-- caixa #2  cima -->
+							
+						 <ul class="xxxx">
+						 <li class="sep">&nbsp;&nbsp;&nbsp;</li>
+						 <li><a href="//www.goempleo.es/index.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Inicio">Inicio</a></li>
+						 <li class="sep">&nbsp;&nbsp;&nbsp;</li>
+						 <li><a href="//www.goempleo.es/personal.php?action=new&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Registro">Registro</a></li>
+						 <li class="sep">&nbsp;&nbsp;&nbsp;</li>
+						 <li><a href="//www.goempleo.es/login.php?login=jobseeker&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Entrar">Entrar</a></li>
+						 <li class="sep">&nbsp;&nbsp;&nbsp;</li>
+						 <li><a href="//www.goempleo.es/jobmail.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Jobmail">Jobmail</a></li>
+						 <li class="sep">&nbsp;&nbsp;&nbsp;</li>
+						 <li><a href="//www.goempleo.es/jobseeker.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Enviar Currículo">Enviar Currículo</a></li>
+						 <li class="sep">&nbsp;&nbsp;&nbsp;</li>
+						 <li><a href="//www.goempleo.es/search_jobs.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Buscar Empleos">Buscar Empleos</a></li>
+						 <li class="sep">&nbsp;&nbsp;&nbsp;</li>
+						 <li><a href="//www.goempleo.es/support.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Asistencia" class="lastinlist">Asistencia</a></li>
+						
+					<li class="sep">&nbsp;&nbsp;&nbsp;</li>
+				   </ul>
+				   
+<!-- caixa #2 fundo -->		</td>	
+							 <td style="height:auto; width:3px; background:url(//www.goempleo.es/other/caixa2_lado_dir.gif) repeat-y"></td>
+						</tr>
+						<tr>
+							<td style="height:4px; width:3px; background:url(//www.goempleo.es/other/caixa2_baixo_canto_esq.gif) no-repeat"></td>
+							<td style="height:4px; width:auto; background:url(//www.goempleo.es/other/caixa2_baixo_meio.gif) repeat-x"></td>
+							<td style="height:4px; width:4px; background:url(//www.goempleo.es/other/caixa2_baixo_canto_dir.gif) repeat-x"></td>
+						</tr>
+					</table>
+	<!-- caixa #2 fundo -->	
+					
+		  	 </div>
+		   
+			
+	    
+
+
+		</div> <!-- full-menu-linha_2 -->
+<!-- fim xxxx  menu contexto-->
+		</div>
+		
+
+					 
+	 
+
+<!-- caixa #2 cima -->	
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" background:url(//www.goempleo.es/other/caixa_fundo.gif) repeat-x bottom left">
+						<tr>
+							<td style="height:4px; width:3px; background:url(//www.goempleo.es/other/caixa2_cima_canto_esq.gif) no-repeat"></td>
+							<td style="height:4px; width:auto; background:url(//www.goempleo.es/other/caixa2_cima_meio.gif) repeat-x"></td>
+							<td style="height:4px; width:4px; background:url(//www.goempleo.es/other/caixa2_cima_canto_dir.gif) repeat-x"></td>
+						</tr>
+						<tr>
+							<td style="height:auto; width:3px; background:url(//www.goempleo.es/other/caixa2_lado_esq.gif) repeat-y"></td>
+							<td>
+	<!-- caixa #2  cima -->				
+
+			
+<div id="feat_comp_logo">
+
+			<h2>Empresas destacadas</h2>	
+
+
+
+               <span class="verysmall phpjob_boldtext">No hay empresas destacadas</span>
+         <a href="//www.goempleo.es/list_companies.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Mais empresas" class="phpjob_more">Más empresas</a>
+</div>
+<!-- caixa #2 fundo -->			
+							 <td style="height:auto; width:3px; background:url(//www.goempleo.es/other/caixa2_lado_dir.gif) repeat-y"></td>
+						</tr>
+						<tr>
+							<td style="height:4px; width:3px; background:url(//www.goempleo.es/other/caixa2_baixo_canto_esq.gif) no-repeat"></td>
+							<td style="height:4px; width:auto; background:url(//www.goempleo.es/other/caixa2_baixo_meio.gif) repeat-x"></td>
+							<td style="height:4px; width:4px; background:url(//www.goempleo.es/other/caixa2_baixo_canto_dir.gif) repeat-x"></td>
+						</tr>
+					</table>
+	<!-- caixa #2 fundo -->		
+<script type="text/javascript"><!--
+google_ad_client = "pub-0994902845919865";
+google_ad_width = 336;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_bg = "ffffff";
+
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</ br></ br>
+
+
+	
+	<br />
+<!-- caixa #2 cima -->	
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" style=" background:url(//www.goempleo.es/other/caixa_fundo.gif) repeat-x bottom left">
+						<tr>
+							<td style="height:4px; width:3px; background:url(//www.goempleo.es/other/caixa2_cima_canto_esq.gif) no-repeat"></td>
+							<td style="height:4px; width:auto; background:url(//www.goempleo.es/other/caixa2_cima_meio.gif) repeat-x"></td>
+							<td style="height:4px; width:4px; background:url(//www.goempleo.es/other/caixa2_cima_canto_dir.gif) repeat-x"></td>
+						</tr>
+						<tr>
+							<td style="height:auto; width:3px; background:url(//www.goempleo.es/other/caixa2_lado_esq.gif) repeat-y"></td>
+							<td>
+	<!-- caixa #2  cima -->			
+<div class="divlistcontainer2">
+<h2>Testimonios</h2>
+<ul>
+<li><span class="verysmall phpjob_boldtext">No se han encontrado comentarios.</span></li>
+<li class="phpjob_listbgcolor1" style="margin-top: 5px;"><a href="//www.goempleo.es/add_testimonials.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" class="phpjob_more">Comparta su historia</a></li>
+<li class="phpjob_listbgcolor1"><a href="//www.goempleo.es/testimonials.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" class="phpjob_more">Leer más >></a></li>
+</ul>
+</div>
+<!-- caixa #2 fundo -->			
+							 <td style="height:auto; width:3px; background:url(//www.goempleo.es/other/caixa2_lado_dir.gif) repeat-y"></td>
+						</tr>
+						<tr>
+							<td style="height:4px; width:3px; background:url(//www.goempleo.es/other/caixa2_baixo_canto_esq.gif) no-repeat"></td>
+							<td style="height:4px; width:auto; background:url(//www.goempleo.es/other/caixa2_baixo_meio.gif) repeat-x"></td>
+							<td style="height:4px; width:4px; background:url(//www.goempleo.es/other/caixa2_baixo_canto_dir.gif) repeat-x"></td>
+						</tr>
+					</table>
+	<!-- caixa #2 fundo -->			
+	
+	<br /><br />
+						<!-- an?ncio google --> 
+						<script type="text/javascript"><!--
+						google_ad_client = "pub-0994902845919865";
+						google_ad_width = 200;
+						google_ad_height = 90;
+						google_ad_format = "200x90_0ads_al_s";
+						google_ad_channel ="";
+						google_color_bg = "F2F2F2";
+						//-->
+						</script>
+						<script type="text/javascript"
+						src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+						</script><!-- an?ncio google -->
+						<br /><br />
+							<br /><br />
+						<!-- an?ncio google --> 
+						<script type="text/javascript"><!--
+						google_ad_client = "pub-0994902845919865";
+						google_ad_width = 200;
+						google_ad_height = 90;
+						google_ad_format = "200x90_0ads_al_s";
+						google_ad_channel ="";
+						google_color_bg = "F2F2F2";
+						//-->
+						</script>
+						<script type="text/javascript"
+						src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+						</script><!-- an?ncio google -->
+						<br /><br />							
+</div>
+</div>
+<!-- =====================================  FIM COLUNA DA ESQUERDA ============================================== --></td>
+<!-- end body_navigation //-->
+<!-- right_navigation //-->
+<!-- end right_navigation //-->
+</tr>
+</table>
+	 	
+					</td>
+					<td style=" width:0px; height:72px; background:url(//www.goempleo.es/other/topo_01_dir.gif) repeat-y">
+					</td>
+				</tr>	
+			</table>
+	</div> <!-- fecha div do heather.php -->
+	 
+	</div>
+	
+<div id="full-menu-linha_11">	
+	<div id="phpjob_footer">
+	
+	<ul>
+	
+		<li><a href="//www.goempleo.es/" title="Home">Home</a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/login.php?login=jobseeker&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Candidato - Entrar">Candidato - Entrar</a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/search_jobs.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Buscar trabajo">Buscar trabajo</a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/jobseeker.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Mi curriculum vitaes">Mi curriculum vitae</a> </li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/search_resumes.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="TEXT_FOOTER_JOBSEEKRS_FIND_RESUMESE">Buscar CV </a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/employer.php?action=job_form&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Vagas">Vagas</a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/login.php?login=employer&amp;auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Empresa - Entrar">Empresa - Entrar</a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/employer_planning.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Empleador - precios">Empleador - precios</a></li>
+	
+	</ul>
+	<hr />
+	<ul>
+	
+		<li><a href="//www.goempleo.es/about_us.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="¿Quiénes somos?">¿Quiénes somos?</a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/terms.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Terms and Conditions">Términos y condiciones</a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/privacy.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Política de privacidad">Política de privacidad</a> </li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/contact_us.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Contáctenos">Contáctenos</a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/faq.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="FAQ">FAQ</a></li>
+	
+		
+	
+		<li> <a href="//www.goempleo.es/sitemap.php?auth_sess=7145d0f6dafc831a5ceabb19c4940e1d&amp;ref=ca8fc7b412aee2041b3ce91b6" title="Mapa del Sitio">Mapa del Sitio</a></li> 
+	
+	</ul>
+	<br />
+	<br />
+	<div><span>Copyright &copy; 2002-2020 <a href="http://www.goempleos.es" title="goempleos.es">goempleos.es</a> All rights reserved</span></div>
+	
+	</div>
+	</div>
+	
+</td>
+<td style="width:7px; background: url(//www.goempleo.es/other/bordo_dir.gif) repeat-y">
+</td>
+</tr>
+</table>	
+</div> <!-- full-width (menu) -->	</body>
+</html>
